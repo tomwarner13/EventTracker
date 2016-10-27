@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Runtime.Caching;
 
-namespace EventTracker
+namespace EventTracking
 {
   /// <summary>
   /// A simple wrapper around MemCache that tracks whether a specific event has already been fired within a preset interval of time.
